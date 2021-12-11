@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://SDUFE-Course.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.sdufe.vip/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://SDUFE-Course.github.io/</loc>
+<loc>https://www.sdufe.vip/</loc>
 </url>
 <url>
-<loc>https://SDUFE-Course.github.io/contribution.html</loc>
+<loc>https://www.sdufe.vip/contribution.html</loc>
 <lastmod>2021-12-07T10:56:48+08:00</lastmod>
 </url>
 <url>
-<loc>https://SDUFE-Course.github.io/di-er-ji.html</loc>
+<loc>https://www.sdufe.vip/di-er-ji.html</loc>
 <lastmod>2021-12-06T23:07:03+08:00</lastmod>
 </url>
 <url>
-<loc>https://SDUFE-Course.github.io/di-yi-ji.html</loc>
+<loc>https://www.sdufe.vip/di-yi-ji.html</loc>
 <lastmod>2021-12-06T23:07:18+08:00</lastmod>
 </url>
 <url>
-<loc>https://SDUFE-Course.github.io/message.html</loc>
+<loc>https://www.sdufe.vip/message.html</loc>
 <lastmod>2021-12-07T10:57:13+08:00</lastmod>
 </url>
 <url>
-<loc>https://SDUFE-Course.github.io/privacy-permission.html</loc>
+<loc>https://www.sdufe.vip/privacy-permission.html</loc>
 <lastmod>2021-12-07T10:57:29+08:00</lastmod>
 </url>
 <url>
-<loc>https://SDUFE-Course.github.io/test.html</loc>
+<loc>https://www.sdufe.vip/test.html</loc>
 <lastmod>2021-12-07T11:01:35+08:00</lastmod>
 </url>
 </urlset>

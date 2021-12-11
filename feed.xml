@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>山东财经大学课程资源共享计划</title>
-    <link href="https://SDUFE-Course.github.io/feed.xml" rel="self" />
-    <link href="https://SDUFE-Course.github.io" />
+    <link href="https://www.sdufe.vip/feed.xml" rel="self" />
+    <link href="https://www.sdufe.vip" />
     <updated>2021-12-06T23:07:18+08:00</updated>
     <author>
         <name>竟何</name>
     </author>
-    <id>https://SDUFE-Course.github.io</id>
+    <id>https://www.sdufe.vip</id>
 
     <entry>
         <title>课程资源共享第二辑</title>
         <author>
             <name>竟何</name>
         </author>
-        <link href="https://SDUFE-Course.github.io/di-er-ji.html"/>
-        <id>https://SDUFE-Course.github.io/di-er-ji.html</id>
+        <link href="https://www.sdufe.vip/di-er-ji.html"/>
+        <id>https://www.sdufe.vip/di-er-ji.html</id>
 
         <updated>2021-12-06T23:07:03+08:00</updated>
             <summary>
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p>本辑特别整理了<span style="color: #f1c40f;"><a class="v-align-middle" data-hydro-click="{&quot;event_type&quot;:&quot;search_result.click&quot;,&quot;payload&quot;:{&quot;page_number&quot;:1,&quot;per_page&quot;:10,&quot;query&quot;:&quot;山东财经大学&quot;,&quot;result_position&quot;:1,&quot;click_id&quot;:185000827,&quot;result&quot;:{&quot;id&quot;:185000827,&quot;global_relay_id&quot;:&quot;MDEwOlJlcG9zaXRvcnkxODUwMDA4Mjc=&quot;,&quot;model_name&quot;:&quot;Repository&quot;,&quot;url&quot;:&quot;https://github.com/SDUFE-Resource/SDUFE-Course&quot;},&quot;originating_url&quot;:&quot;https://github.com/search?q=%E5%B1%B1%E4%B8%9C%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6&quot;,&quot;user_id&quot;:95562439}}" data-hydro-click-hmac="244b84524d12cc741bdb17b551ae3973818557d8807ae620786b79dff4a02073" href="https://github.com/SDUFE-Resource/SDUFE-Course" style="color: #f1c40f;">SDUFE-Resource/SDUFE-Course</a></span>库中的课程资源，在此特别感谢<span style="color: #236fa1;"><a href="https://github.com/Jinzhengxu" style="color: #236fa1;">@Zhengxu Jin</a></span>和<span style="color: #236fa1;"><a href="https://github.com/YY-Susan" style="color: #236fa1;">@YY-Susan</a></span>两位整理资源。</p>
 <p class="msg msg--success"><strong>各位读者可点击<span style="color: #f1c40f;">菜单</span>找到<span style="color: #f1c40f;">资源库</span>，浏览并下载。</strong></p>
-<p class="msg msg--highlight "><strong>本计划欢迎同学踊跃<span style="color: #e67e23;"><a href="https://SDUFE-Course.github.io/contribution.html" style="color: #e67e23;">投稿</a></span>，为<span style="color: #169179;"><a href="http://39.103.191.97/" style="color: #169179;">资源库</a></span>的充实贡献自己的一份力量！</strong></p>
+<p class="msg msg--highlight "><strong>本计划欢迎同学踊跃<span style="color: #e67e23;"><a href="https://www.sdufe.vip/contribution.html" style="color: #e67e23;">投稿</a></span>，为<span style="color: #169179;"><a href="http://39.103.191.97/" style="color: #169179;">资源库</a></span>的充实贡献自己的一份力量！</strong></p>
 <h3>本辑整理：</h3>
 <table style="border-collapse: collapse; width: 100%; height: 528px;" border="1">
 <tbody>
@@ -91,8 +91,8 @@
         <author>
             <name>竟何</name>
         </author>
-        <link href="https://SDUFE-Course.github.io/di-yi-ji.html"/>
-        <id>https://SDUFE-Course.github.io/di-yi-ji.html</id>
+        <link href="https://www.sdufe.vip/di-yi-ji.html"/>
+        <id>https://www.sdufe.vip/di-yi-ji.html</id>
 
         <updated>2021-12-06T23:07:18+08:00</updated>
             <summary>
@@ -108,7 +108,7 @@
 <p>想要真正找到可以倚仗复习的资料，还是得靠本校的课程资源。它可能是老师课上的PPT，可能是私下里画出的重点，可能是学长学姐传承下来的宝藏。总之，这些东西不好找，所以，我们需要共享。</p>
 <p>很久之前GitHub上就有山东财经大学课程资源的库，但是咱们毕竟是经济类院校，会刷Github的同学应该不多，所以该库一直不温不火。为了解决这个问题，作者利用<a href="https://github.com/SDUFE-Course/SDUFE-Course.github.io">GitHub Page</a>+Pubill部署了本网站，并自费购买了阿里云服务器利用<a href="https://github.com/Xhofe/alist">Alist</a>构建了资源库。</p>
 <p class="msg msg--success"><strong>各位读者可点击<span style="color: #f1c40f;">菜单</span>找到<span style="color: #f1c40f;">资源库</span>，浏览并下载。</strong></p>
-<p class="msg msg--highlight "><strong>本计划欢迎同学踊跃<span style="color: #e67e23;"><a href="https://SDUFE-Course.github.io/contribution.html" style="color: #e67e23;">投稿</a></span>，为<span style="color: #169179;"><a href="http://39.103.191.97/" style="color: #169179;">资源库</a></span>的充实贡献自己的一份力量！</strong></p>
+<p class="msg msg--highlight "><strong>本计划欢迎同学踊跃<span style="color: #e67e23;"><a href="https://www.sdufe.vip/contribution.html" style="color: #e67e23;">投稿</a></span>，为<span style="color: #169179;"><a href="http://39.103.191.97/" style="color: #169179;">资源库</a></span>的充实贡献自己的一份力量！</strong></p>
 <h3>本辑整理：</h3>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
