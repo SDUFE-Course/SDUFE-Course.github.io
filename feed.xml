@@ -3,7 +3,7 @@
     <title>山东财经大学课程资源共享计划</title>
     <link href="https://www.sdufe.vip/feed.xml" rel="self" />
     <link href="https://www.sdufe.vip" />
-    <updated>2021-12-26T14:09:51+08:00</updated>
+    <updated>2021-12-26T19:11:10+08:00</updated>
     <author>
         <name>竟何</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.sdufe.vip/di-san-ji.html"/>
         <id>https://www.sdufe.vip/di-san-ji.html</id>
 
-        <updated>2021-12-26T14:09:51+08:00</updated>
+        <updated>2021-12-26T19:11:10+08:00</updated>
             <summary>
                 <![CDATA[
                     本辑整理了作者近几个学期保存的课程资源，主要是物流管理专业方向。&hellip;
@@ -66,7 +66,8 @@
         new Valine({
             el: '#vcomments',
             appId: 'eYjwSMOsPFqT10xukqABF3cQ-gzGzoHsz',
-            appKey: 'acOkcfVHAJoRHxpAulnDAaj0'
+            appKey: 'acOkcfVHAJoRHxpAulnDAaj0',
+    avatar:"hide",
         })
 </script>
 </p>
@@ -81,7 +82,7 @@
         <link href="https://www.sdufe.vip/di-er-ji.html"/>
         <id>https://www.sdufe.vip/di-er-ji.html</id>
 
-        <updated>2021-12-26T14:09:43+08:00</updated>
+        <updated>2021-12-26T19:11:01+08:00</updated>
             <summary>
                 <![CDATA[
                     本辑特别整理了SDUFE-Resource/SDUFE-Course库中的课程资源，在此特别感谢@Zhengxu&hellip;
@@ -149,7 +150,8 @@
         new Valine({
             el: '#vcomments',
             appId: 'eYjwSMOsPFqT10xukqABF3cQ-gzGzoHsz',
-            appKey: 'acOkcfVHAJoRHxpAulnDAaj0'
+            appKey: 'acOkcfVHAJoRHxpAulnDAaj0',
+    avatar:"hide",
         })
 </script>
 </p>
@@ -164,7 +166,7 @@
         <link href="https://www.sdufe.vip/di-yi-ji.html"/>
         <id>https://www.sdufe.vip/di-yi-ji.html</id>
 
-        <updated>2021-12-26T14:09:34+08:00</updated>
+        <updated>2021-12-26T19:10:54+08:00</updated>
             <summary>
                 <![CDATA[
                     记得应该是某一个周日的晚上，作者在整理准备期末考试的资料时，脑海突然想到了这样的点子：应该建立一个课程资料的共享库。&hellip;
@@ -200,7 +202,8 @@
         new Valine({
             el: '#vcomments',
             appId: 'eYjwSMOsPFqT10xukqABF3cQ-gzGzoHsz',
-            appKey: 'acOkcfVHAJoRHxpAulnDAaj0'
+            appKey: 'acOkcfVHAJoRHxpAulnDAaj0',
+    avatar:"hide",
         })
 </script>
 </p>
