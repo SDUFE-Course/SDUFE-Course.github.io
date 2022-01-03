@@ -3,7 +3,7 @@
     <title>山东财经大学课程资源共享计划</title>
     <link href="https://www.sdufe.vip/feed.xml" rel="self" />
     <link href="https://www.sdufe.vip" />
-    <updated>2022-01-03T19:48:24+08:00</updated>
+    <updated>2022-01-03T19:54:08+08:00</updated>
     <author>
         <name>竟何</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.sdufe.vip/liaotianban.html"/>
         <id>https://www.sdufe.vip/liaotianban.html</id>
 
-        <updated>2022-01-03T19:47:44+08:00</updated>
+        <updated>2022-01-03T19:53:40+08:00</updated>
             <summary>
                 <![CDATA[
                     在资源库中设置了聊天板，欢迎灌水。&hellip;
@@ -38,7 +38,7 @@
 <script>
     Waline({
       el: '#waline',
-      serverURL: 'https://your-domain.vercel.app',
+      serverURL: 'https://blog-api-lylelove.vercel.app/',
     });
 </script>
 </p>
@@ -53,7 +53,7 @@
         <link href="https://www.sdufe.vip/di-san-ji.html"/>
         <id>https://www.sdufe.vip/di-san-ji.html</id>
 
-        <updated>2022-01-03T19:48:01+08:00</updated>
+        <updated>2022-01-03T19:53:50+08:00</updated>
             <summary>
                 <![CDATA[
                     本辑整理了作者近几个学期保存的课程资源，主要是物流管理专业方向。&hellip;
@@ -103,7 +103,7 @@
 <script>
     Waline({
       el: '#waline',
-      serverURL: 'https://your-domain.vercel.app',
+      serverURL: 'https://blog-api-lylelove.vercel.app/',
     });
 </script>
 </p>
@@ -118,7 +118,7 @@
         <link href="https://www.sdufe.vip/di-er-ji.html"/>
         <id>https://www.sdufe.vip/di-er-ji.html</id>
 
-        <updated>2022-01-03T19:48:24+08:00</updated>
+        <updated>2022-01-03T19:54:00+08:00</updated>
             <summary>
                 <![CDATA[
                     本辑特别整理了SDUFE-Resource/SDUFE-Course库中的课程资源，在此特别感谢@Zhengxu&hellip;
@@ -187,7 +187,7 @@
 <script>
     Waline({
       el: '#waline',
-      serverURL: 'https://your-domain.vercel.app',
+      serverURL: 'https://blog-api-lylelove.vercel.app/',
     });
 </script>
 </p>
@@ -202,7 +202,7 @@
         <link href="https://www.sdufe.vip/di-yi-ji.html"/>
         <id>https://www.sdufe.vip/di-yi-ji.html</id>
 
-        <updated>2022-01-03T19:48:12+08:00</updated>
+        <updated>2022-01-03T19:54:08+08:00</updated>
             <summary>
                 <![CDATA[
                     记得应该是某一个周日的晚上，作者在整理准备期末考试的资料时，脑海突然想到了这样的点子：应该建立一个课程资料的共享库。&hellip;
@@ -239,7 +239,7 @@
 <script>
     Waline({
       el: '#waline',
-      serverURL: 'https://your-domain.vercel.app',
+      serverURL: 'https://blog-api-lylelove.vercel.app/',
     });
 </script>
 </p>
