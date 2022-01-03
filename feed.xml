@@ -3,7 +3,7 @@
     <title>山东财经大学课程资源共享计划</title>
     <link href="https://www.sdufe.vip/feed.xml" rel="self" />
     <link href="https://www.sdufe.vip" />
-    <updated>2021-12-27T11:01:40+08:00</updated>
+    <updated>2022-01-03T19:48:24+08:00</updated>
     <author>
         <name>竟何</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.sdufe.vip/liaotianban.html"/>
         <id>https://www.sdufe.vip/liaotianban.html</id>
 
-        <updated>2021-12-27T11:01:40+08:00</updated>
+        <updated>2022-01-03T19:47:44+08:00</updated>
             <summary>
                 <![CDATA[
                     在资源库中设置了聊天板，欢迎灌水。&hellip;
@@ -30,16 +30,16 @@
 <p class="align-center">效果图</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://www.sdufe.vip/media/posts/9/Snipaste_2021-12-26_19-28-10.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.sdufe.vip/media/posts/9/responsive/Snipaste_2021-12-26_19-28-10-xs.png 300w ,https://www.sdufe.vip/media/posts/9/responsive/Snipaste_2021-12-26_19-28-10-sm.png 480w ,https://www.sdufe.vip/media/posts/9/responsive/Snipaste_2021-12-26_19-28-10-md.png 768w ,https://www.sdufe.vip/media/posts/9/responsive/Snipaste_2021-12-26_19-28-10-lg.png 1024w ,https://www.sdufe.vip/media/posts/9/responsive/Snipaste_2021-12-26_19-28-10-xl.png 1360w ,https://www.sdufe.vip/media/posts/9/responsive/Snipaste_2021-12-26_19-28-10-2xl.png 1600w"  alt="" width="640" height="305"></figure>
 <p class="align-center">效果图</p>
-<div id="vcomments"> </div>
 <p>
-<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+</p>
+<div id="waline"> </div>
+<p>
 <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'eYjwSMOsPFqT10xukqABF3cQ-gzGzoHsz',
-            appKey: 'acOkcfVHAJoRHxpAulnDAaj0',
-    avatar:"hide",
-        })
+    Waline({
+      el: '#waline',
+      serverURL: 'https://your-domain.vercel.app',
+    });
 </script>
 </p>
             ]]>
@@ -53,7 +53,7 @@
         <link href="https://www.sdufe.vip/di-san-ji.html"/>
         <id>https://www.sdufe.vip/di-san-ji.html</id>
 
-        <updated>2021-12-27T11:01:31+08:00</updated>
+        <updated>2022-01-03T19:48:01+08:00</updated>
             <summary>
                 <![CDATA[
                     本辑整理了作者近几个学期保存的课程资源，主要是物流管理专业方向。&hellip;
@@ -95,16 +95,16 @@
 </tr>
 </tbody>
 </table>
-<div id="vcomments"> </div>
 <p>
-<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+</p>
+<div id="waline"> </div>
+<p>
 <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'eYjwSMOsPFqT10xukqABF3cQ-gzGzoHsz',
-            appKey: 'acOkcfVHAJoRHxpAulnDAaj0',
-    avatar:"hide",
-        })
+    Waline({
+      el: '#waline',
+      serverURL: 'https://your-domain.vercel.app',
+    });
 </script>
 </p>
             ]]>
@@ -118,7 +118,7 @@
         <link href="https://www.sdufe.vip/di-er-ji.html"/>
         <id>https://www.sdufe.vip/di-er-ji.html</id>
 
-        <updated>2021-12-26T19:11:01+08:00</updated>
+        <updated>2022-01-03T19:48:24+08:00</updated>
             <summary>
                 <![CDATA[
                     本辑特别整理了SDUFE-Resource/SDUFE-Course库中的课程资源，在此特别感谢@Zhengxu&hellip;
@@ -179,16 +179,16 @@
 </tr>
 </tbody>
 </table>
-<div id="vcomments"> </div>
 <p>
-<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+</p>
+<div id="waline"> </div>
+<p>
 <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'eYjwSMOsPFqT10xukqABF3cQ-gzGzoHsz',
-            appKey: 'acOkcfVHAJoRHxpAulnDAaj0',
-    avatar:"hide",
-        })
+    Waline({
+      el: '#waline',
+      serverURL: 'https://your-domain.vercel.app',
+    });
 </script>
 </p>
             ]]>
@@ -202,7 +202,7 @@
         <link href="https://www.sdufe.vip/di-yi-ji.html"/>
         <id>https://www.sdufe.vip/di-yi-ji.html</id>
 
-        <updated>2021-12-26T19:10:54+08:00</updated>
+        <updated>2022-01-03T19:48:12+08:00</updated>
             <summary>
                 <![CDATA[
                     记得应该是某一个周日的晚上，作者在整理准备期末考试的资料时，脑海突然想到了这样的点子：应该建立一个课程资料的共享库。&hellip;
@@ -231,16 +231,16 @@
 </tr>
 </tbody>
 </table>
-<div id="vcomments"> </div>
 <p>
-<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+</p>
+<div id="waline"> </div>
+<p>
 <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'eYjwSMOsPFqT10xukqABF3cQ-gzGzoHsz',
-            appKey: 'acOkcfVHAJoRHxpAulnDAaj0',
-    avatar:"hide",
-        })
+    Waline({
+      el: '#waline',
+      serverURL: 'https://your-domain.vercel.app',
+    });
 </script>
 </p>
             ]]>
